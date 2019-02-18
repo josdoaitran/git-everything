@@ -11,6 +11,10 @@ Create a local branch:
 ``` git checkout -b branch_name```
 
 
+Create ssh key
+``` ssh-keygen ```
+
+
 
 ## II. Issues:
 
@@ -20,7 +24,20 @@ Create a local branch:
 
 ### 2. Add one more account to git
 
-git config --list
+```git config --list```
+```
+# Personal account, - the default config
+Host github.com
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/id_rsa
+# Work account-1
+Host github.com-work_user1    
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/id_rsa_work_user1
+```   
+Create one more ssh key with command: 
 
 
 Reference:
