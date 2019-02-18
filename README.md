@@ -2,10 +2,10 @@
 GIT-Everything
 
 
-## Basic Command:
+## I. Basic Command:
 
 
-## Issues:
+## II. Issues:
 
 ### 1. Reset everything to the lasted commit:
 
