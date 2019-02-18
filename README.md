@@ -20,6 +20,11 @@ Create a local branch:
 
 ### 2. Add one more account to git
 
+git config --list
+
+
+Reference:
+https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca
 
 
 ### 3. Error: Auto packing the repository in background for optimum performance. See "git help gc" for manual housekeeping.
