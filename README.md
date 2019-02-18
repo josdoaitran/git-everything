@@ -2,7 +2,14 @@
 GIT-Everything
 
 
-## I. Basic Command:
+## I. Basic Command
+
+List all configuration:
+``` git config --list ```
+
+Create a local branch:
+``` git checkout -b branch_name```
+
 
 
 ## II. Issues:
