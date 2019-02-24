@@ -4,20 +4,22 @@ GIT-Everything
 
 ## I. Basic Command
 
-### List all configuration:
+### 1. List all configuration:
 ``` git config --list ```
 
-### Create a local branch:
+### 2. Create a local branch:
 ``` git checkout -b branch_name```
 
 
-### Create ssh key - Add public key to GIT Sever
+### 3. Create ssh key - Add public key to GIT Sever
 We will be able to work with git server via: `HTTPS` or `SSH` mode. Use HTTPS mode we will have to input the credential while we pull or push code to GIT server.
 When add public key of our computer / workstation to GIT server, then we can work and contact to GIT server.
 
 To create ssh key
 
 ``` ssh-keygen ```
+
+### 4. 
 
 ### Git Change 
 ```
