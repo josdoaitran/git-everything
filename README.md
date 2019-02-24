@@ -4,16 +4,26 @@ GIT-Everything
 
 ## I. Basic Command
 
-List all configuration:
+### List all configuration:
 ``` git config --list ```
 
-Create a local branch:
+### Create a local branch:
 ``` git checkout -b branch_name```
 
 
-Create ssh key
+### Create ssh key
 ``` ssh-keygen ```
 
+### Git Change 
+```
+git add . 
+# or git
+git add <fileName>
+git status
+git diff
+git 
+
+```
 
 
 ## II. Issues:
@@ -21,6 +31,7 @@ Create ssh key
 ### 1. Reset everything to the lasted commit:
 
 ``` git reset --hard ```
+
 
 ### 2. Add one more account to git
 
