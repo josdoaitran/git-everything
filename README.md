@@ -19,9 +19,7 @@ To create ssh key
 
 ``` ssh-keygen ```
 
-### 4. 
-
-### Git Change 
+### 4.Git Change 
 ```
 git add . 
 # or git
@@ -32,6 +30,8 @@ git diff --staged
 git reset <fileName>
 git commit -am "Message Commit"
 ```
+
+### 5.
 
 
 ## II. Issues:
