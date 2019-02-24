@@ -21,8 +21,9 @@ git add .
 git add <fileName>
 git status
 git diff
-git 
-
+git diff --staged
+git reset <fileName>
+git commit -am "Message Commit"
 ```
 
 
