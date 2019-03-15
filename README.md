@@ -31,8 +31,8 @@ git reset <fileName>
 git commit -am "Message Commit"
 ```
 
-### 5.
-
+### 5. git add ssh key
+`ssh-add -K ~/.ssh/doai_rsa`
 
 ## II. Issues:
 
