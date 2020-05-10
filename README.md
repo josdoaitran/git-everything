@@ -34,6 +34,11 @@ git commit -am "Message Commit"
 ### 5. git add ssh key
 `ssh-add -K ~/.ssh/doai_rsa`
 
+## II. Git Branching Model
+Github
+GitLab
+Gitbucket
+
 ## II. Issues:
 
 ### 1. Reset everything to the lasted commit:
