@@ -35,9 +35,9 @@ git commit -am "Message Commit"
 `ssh-add -K ~/.ssh/doai_rsa`
 
 ## II. Git Branching Model
-Github
-GitLab
-Gitbucket
+- Github
+- GitLab flow
+
 
 ## II. Issues:
 
