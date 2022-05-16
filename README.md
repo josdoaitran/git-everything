@@ -1,8 +1,9 @@
 # GIT-Everything
 GIT-Everything
 
-Download git: https://git-scm.com/downloads
-Git client: https://git-scm.com/downloads/guis
+- Download git: https://git-scm.com/downloads
+
+- Git client: https://git-scm.com/downloads/guis
 
 
 ## I. Basic Command
