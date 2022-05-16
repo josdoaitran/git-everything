@@ -11,6 +11,12 @@ GIT-Everything
 ### 1. List all configuration:
 ``` git config --list ```
 
+In order to setup global configuration on Git local:
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+
 ### 2. Create a local branch:
 ``` git checkout -b branch_name```
 
